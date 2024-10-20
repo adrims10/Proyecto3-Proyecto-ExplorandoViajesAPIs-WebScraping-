@@ -1,0 +1,109 @@
+,ciudad_origen,ciudad_destino,salida,llegada,duracion(min),aerolinea,precio
+0,Madrid,Santiago del Monte,2024-11-01T16:40:00,2024-11-01T17:55:00,75,Iberia,850.17
+1,Santiago del Monte,Madrid,2024-11-03T17:40:00,2024-11-03T18:55:00,75,Iberia,850.17
+2,Madrid,Santiago del Monte,2024-11-01T12:50:00,2024-11-01T14:05:00,75,Iberia,850.17
+3,Santiago del Monte,Madrid,2024-11-03T17:40:00,2024-11-03T18:55:00,75,Iberia,850.17
+4,Madrid,Santiago del Monte,2024-11-01T07:25:00,2024-11-01T08:40:00,75,Iberia,850.17
+5,Santiago del Monte,Madrid,2024-11-03T22:15:00,2024-11-03T23:30:00,75,Iberia,850.17
+6,Madrid,Santiago del Monte,2024-11-01T22:00:00,2024-11-01T23:15:00,75,Iberia,850.17
+7,Santiago del Monte,Madrid,2024-11-03T17:40:00,2024-11-03T18:55:00,75,Iberia,850.17
+8,Madrid,Santiago del Monte,2024-11-01T22:00:00,2024-11-01T23:15:00,75,Iberia,850.17
+9,Santiago del Monte,Madrid,2024-11-03T22:15:00,2024-11-03T23:30:00,75,Iberia,850.17
+10,Madrid,Santiago del Monte,2024-11-01T16:40:00,2024-11-01T17:55:00,75,Iberia,850.17
+11,Santiago del Monte,Madrid,2024-11-03T22:15:00,2024-11-03T23:30:00,75,Iberia,850.17
+12,Madrid,Santiago del Monte,2024-11-01T07:25:00,2024-11-01T08:40:00,75,Iberia,850.17
+13,Santiago del Monte,Madrid,2024-11-03T17:40:00,2024-11-03T18:55:00,75,Iberia,850.17
+14,Madrid,Santiago del Monte,2024-11-01T12:50:00,2024-11-01T14:05:00,75,Iberia,850.17
+15,Santiago del Monte,Madrid,2024-11-03T22:15:00,2024-11-03T23:30:00,75,Iberia,850.17
+16,Madrid,Santiago del Monte,2024-11-01T18:15:00,2024-11-01T22:25:00,250,Vueling Airlines,850.17
+17,Santiago del Monte,Madrid,2024-11-03T17:40:00,2024-11-03T18:55:00,75,Iberia,850.17
+18,Madrid,Santiago del Monte,2024-11-01T18:15:00,2024-11-01T22:25:00,250,Vueling Airlines,850.17
+19,Santiago del Monte,Madrid,2024-11-03T22:15:00,2024-11-03T23:30:00,75,Iberia,850.17
+20,Madrid,Santiago del Monte,2024-11-01T07:25:00,2024-11-01T08:40:00,75,Iberia,850.17
+21,Santiago del Monte,Madrid,2024-11-03T09:25:00,2024-11-03T13:15:00,230,Vueling Airlines,850.17
+22,Madrid,Santiago del Monte,2024-11-01T12:50:00,2024-11-01T14:05:00,75,Iberia,850.17
+23,Santiago del Monte,Madrid,2024-11-03T09:25:00,2024-11-03T13:15:00,230,Vueling Airlines,850.17
+24,Madrid,Santiago del Monte,2024-11-01T18:55:00,2024-11-01T23:00:00,245,Air Europa,850.17
+25,Santiago del Monte,Madrid,2024-11-03T14:10:00,2024-11-03T21:55:00,465,Volotea,850.17
+26,Madrid,Santiago del Monte,2024-11-01T10:30:00,2024-11-01T14:35:00,245,Air Europa,850.17
+27,Santiago del Monte,Madrid,2024-11-03T14:10:00,2024-11-03T21:55:00,465,Volotea,850.17
+28,Madrid,Santiago del Monte,2024-11-01T07:05:00,2024-11-01T14:15:00,430,Air Europa,850.17
+29,Santiago del Monte,Madrid,2024-11-03T14:10:00,2024-11-03T21:55:00,465,Volotea,850.17
+30,Madrid,Santiago del Monte,2024-11-01T22:00:00,2024-11-01T23:15:00,75,Iberia,850.17
+31,Santiago del Monte,Madrid,2024-11-03T09:25:00,2024-11-03T13:15:00,230,Vueling Airlines,850.17
+32,Madrid,Santiago del Monte,2024-11-01T18:15:00,2024-11-01T22:25:00,250,Vueling Airlines,850.17
+33,Santiago del Monte,Madrid,2024-11-03T09:25:00,2024-11-03T13:15:00,230,Vueling Airlines,850.17
+34,Madrid,Santiago del Monte,2024-11-01T16:00:00,2024-11-01T23:00:00,420,easyJet,850.17
+35,Santiago del Monte,Madrid,2024-11-03T14:10:00,2024-11-03T21:55:00,465,Volotea,850.17
+36,Madrid,Santiago del Monte,2024-11-01T18:15:00,2024-11-01T22:25:00,250,Vueling Airlines,850.17
+37,Santiago del Monte,Madrid,2024-11-03T14:10:00,2024-11-03T21:55:00,465,Volotea,850.17
+38,Madrid,Santiago del Monte,2024-11-01T15:10:00,2024-11-01T22:25:00,435,Air Europa,850.17
+39,Santiago del Monte,Madrid,2024-11-03T14:10:00,2024-11-03T21:55:00,465,Volotea,850.17
+40,Madrid,Santiago del Monte,2024-11-01T18:15:00,2024-11-01T22:25:00,250,Vueling Airlines,850.17
+41,Santiago del Monte,Madrid,2024-11-03T23:00:00,2024-11-04T08:55:00,595,Vueling Airlines,850.17
+42,Madrid,Santiago del Monte,2024-11-01T18:15:00,2024-11-02T08:40:00,865,Vueling Airlines,850.17
+43,Santiago del Monte,Madrid,2024-11-03T09:25:00,2024-11-03T13:15:00,230,Vueling Airlines,850.17
+44,Madrid,Santiago del Monte,2024-11-01T18:15:00,2024-11-01T22:25:00,250,Vueling Airlines,850.17
+45,Santiago del Monte,Madrid,2024-11-03T09:25:00,2024-11-03T13:15:00,230,Iberia,850.17
+46,Madrid,Santiago del Monte,2024-11-01T18:15:00,2024-11-01T22:25:00,250,Iberia,850.17
+47,Santiago del Monte,Madrid,2024-11-03T09:25:00,2024-11-03T13:15:00,230,Vueling Airlines,850.17
+48,Madrid,Santiago del Monte,2024-11-01T18:15:00,2024-11-01T22:25:00,250,Iberia,850.17
+49,Santiago del Monte,Madrid,2024-11-03T09:25:00,2024-11-03T13:15:00,230,Iberia,850.17
+50,Madrid,Santiago del Monte,2024-11-01T07:30:00,2024-11-02T08:40:00,1510,Air Europa,850.17
+51,Santiago del Monte,Madrid,2024-11-03T14:10:00,2024-11-03T21:55:00,465,Volotea,850.17
+52,Madrid,Santiago del Monte,2024-11-01T18:15:00,2024-11-02T08:40:00,865,Vueling Airlines,850.17
+53,Santiago del Monte,Madrid,2024-11-03T23:00:00,2024-11-04T08:55:00,595,Vueling Airlines,850.17
+54,Madrid,Santiago del Monte,2024-11-01T18:15:00,2024-11-02T08:40:00,865,Vueling Airlines,850.17
+55,Santiago del Monte,Madrid,2024-11-03T09:25:00,2024-11-03T22:00:00,755,Vueling Airlines,850.17
+56,Madrid,Santiago del Monte,2024-11-01T18:15:00,2024-11-01T22:25:00,250,Iberia,850.17
+57,Santiago del Monte,Madrid,2024-11-03T23:00:00,2024-11-04T08:55:00,595,Vueling Airlines,850.17
+58,Madrid,Santiago del Monte,2024-11-01T18:15:00,2024-11-01T22:25:00,250,Vueling Airlines,850.17
+59,Santiago del Monte,Madrid,2024-11-03T23:00:00,2024-11-04T08:55:00,595,Iberia,850.17
+60,Madrid,Santiago del Monte,2024-11-01T18:15:00,2024-11-01T22:25:00,250,Iberia,850.17
+61,Santiago del Monte,Madrid,2024-11-03T23:00:00,2024-11-04T08:55:00,595,Iberia,850.17
+62,Madrid,Santiago del Monte,2024-11-01T18:15:00,2024-11-02T08:40:00,865,Vueling Airlines,850.17
+63,Santiago del Monte,Madrid,2024-11-03T09:25:00,2024-11-03T13:15:00,230,Iberia,850.17
+64,Madrid,Santiago del Monte,2024-11-01T18:15:00,2024-11-02T08:40:00,865,Iberia,850.17
+65,Santiago del Monte,Madrid,2024-11-03T09:25:00,2024-11-03T13:15:00,230,Vueling Airlines,850.17
+66,Madrid,Santiago del Monte,2024-11-01T18:15:00,2024-11-02T08:40:00,865,Iberia,850.17
+67,Santiago del Monte,Madrid,2024-11-03T09:25:00,2024-11-03T13:15:00,230,Iberia,850.17
+68,Madrid,Santiago del Monte,2024-11-01T18:15:00,2024-11-02T08:40:00,865,Iberia,850.17
+69,Santiago del Monte,Madrid,2024-11-03T23:00:00,2024-11-04T08:55:00,595,Vueling Airlines,850.17
+70,Madrid,Santiago del Monte,2024-11-01T18:15:00,2024-11-02T08:40:00,865,Vueling Airlines,850.17
+71,Santiago del Monte,Madrid,2024-11-03T23:00:00,2024-11-04T08:55:00,595,Iberia,850.17
+72,Madrid,Santiago del Monte,2024-11-01T18:15:00,2024-11-02T08:40:00,865,Iberia,850.17
+73,Santiago del Monte,Madrid,2024-11-03T23:00:00,2024-11-04T08:55:00,595,Iberia,850.17
+74,Madrid,Santiago del Monte,2024-11-01T20:40:00,2024-11-02T18:50:00,1330,Binter Canarias,850.17
+75,Santiago del Monte,Madrid,2024-11-03T09:25:00,2024-11-03T13:15:00,230,Vueling Airlines,850.17
+76,Madrid,Santiago del Monte,2024-11-01T20:40:00,2024-11-02T18:50:00,1330,Binter Canarias,850.17
+77,Santiago del Monte,Madrid,2024-11-03T09:25:00,2024-11-03T13:15:00,230,Iberia,850.17
+78,Madrid,Santiago del Monte,2024-11-01T18:15:00,2024-11-02T08:40:00,865,Iberia,850.17
+79,Santiago del Monte,Madrid,2024-11-03T09:25:00,2024-11-03T22:00:00,755,Vueling Airlines,850.17
+80,Madrid,Santiago del Monte,2024-11-01T17:55:00,2024-11-02T18:50:00,1495,Binter Canarias,850.17
+81,Santiago del Monte,Madrid,2024-11-03T09:25:00,2024-11-03T13:15:00,230,Vueling Airlines,850.17
+82,Madrid,Santiago del Monte,2024-11-01T17:55:00,2024-11-02T18:50:00,1495,Binter Canarias,850.17
+83,Santiago del Monte,Madrid,2024-11-03T09:25:00,2024-11-03T13:15:00,230,Iberia,850.17
+84,Madrid,Santiago del Monte,2024-11-01T20:40:00,2024-11-02T18:50:00,1330,Binter Canarias,850.17
+85,Santiago del Monte,Madrid,2024-11-03T23:00:00,2024-11-04T08:55:00,595,Iberia,850.17
+86,Madrid,Santiago del Monte,2024-11-01T18:15:00,2024-11-02T08:40:00,865,Iberia,850.17
+87,Santiago del Monte,Madrid,2024-11-03T23:00:00,2024-11-04T19:35:00,1235,Vueling Airlines,850.17
+88,Madrid,Santiago del Monte,2024-11-01T17:55:00,2024-11-02T18:50:00,1495,Binter Canarias,850.17
+89,Santiago del Monte,Madrid,2024-11-03T23:00:00,2024-11-04T08:55:00,595,Iberia,850.17
+90,Madrid,Santiago del Monte,2024-11-01T18:15:00,2024-11-02T08:40:00,865,Vueling Airlines,850.17
+91,Santiago del Monte,Madrid,2024-11-03T23:00:00,2024-11-04T19:35:00,1235,Iberia,850.17
+92,Madrid,Santiago del Monte,2024-11-01T18:15:00,2024-11-02T08:40:00,865,Iberia,850.17
+93,Santiago del Monte,Madrid,2024-11-03T23:00:00,2024-11-04T19:35:00,1235,Iberia,850.17
+94,Madrid,Santiago del Monte,2024-11-01T18:15:00,2024-11-02T08:40:00,865,Vueling Airlines,850.17
+95,Santiago del Monte,Madrid,2024-11-03T09:25:00,2024-11-04T08:55:00,1410,Iberia,850.17
+96,Madrid,Santiago del Monte,2024-11-01T18:15:00,2024-11-02T08:40:00,865,Iberia,850.17
+97,Santiago del Monte,Madrid,2024-11-03T09:25:00,2024-11-04T08:55:00,1410,Vueling Airlines,850.17
+98,Madrid,Santiago del Monte,2024-11-01T18:15:00,2024-11-02T08:40:00,865,Iberia,850.17
+99,Santiago del Monte,Madrid,2024-11-03T09:25:00,2024-11-04T08:55:00,1410,Iberia,850.17
+100,Madrid,Santiago del Monte,2024-11-01T20:40:00,2024-11-02T18:50:00,1330,Binter Canarias,850.17
+101,Santiago del Monte,Madrid,2024-11-03T23:00:00,2024-11-04T19:35:00,1235,Iberia,850.17
+102,Madrid,Santiago del Monte,2024-11-01T17:55:00,2024-11-02T18:50:00,1495,Binter Canarias,850.17
+103,Santiago del Monte,Madrid,2024-11-03T23:00:00,2024-11-04T19:35:00,1235,Iberia,850.17
+104,Madrid,Santiago del Monte,2024-11-01T20:40:00,2024-11-02T18:50:00,1330,Binter Canarias,850.17
+105,Santiago del Monte,Madrid,2024-11-03T09:25:00,2024-11-04T08:55:00,1410,Iberia,850.17
+106,Madrid,Santiago del Monte,2024-11-01T17:55:00,2024-11-02T18:50:00,1495,Binter Canarias,850.17
+107,Santiago del Monte,Madrid,2024-11-03T09:25:00,2024-11-04T08:55:00,1410,Iberia,850.17
