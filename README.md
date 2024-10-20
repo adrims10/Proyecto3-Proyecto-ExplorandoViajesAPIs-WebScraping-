@@ -16,6 +16,7 @@ En este proyecto, se han scrapeado dos páginas web para obtener datos sobre act
 
 
 ## 🗂️ Estructura del Proyecto
+Hemos creado un entorno llamado Webscraping para el siguiente proyecto.
 
         ├── notebooks/           # Notebooks de Jupyter con los codigos en bruto y posibles pruebas
         ├── src/                 # Scripts de procesamiento y modelado
