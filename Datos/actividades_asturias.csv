@@ -1,21 +1,21 @@
-,Actividad,Descripción,Precio
-0,"Excursión a Covadonga, Cangas de Onís y la costa asturiana","Si os apasionala historia y la naturaleza, no podéis perderos estaexcursión a los lagos y la basílica de Covadonga, Cangas de Onís y la costa astuariana.",35.0
-1,"Excursión a Avilés, Cudillero y Luarca","Acompañadnos a descubrir el hermoso ycautivadorlitoral oeste del Principado de Asturiasen esta inolvidableexcursión a Avilés, Cudillero y Luarca.",35.0
-2,Free tour por Oviedo,"Déjate seducir por los aires novelescos de la capital del Principado de Asturiascon este tour gratuito por Oviedo, la ciudad escenario de La Regenta.",0.0
-3,Free tour por Gijón,Disfruta del patrimonio y de la historia deuna de las ciudades más bonitas de Asturiascon este free tour por Gijón. ¡Descubre la ciudad de Don Pelayo!,0.0
-4,"Excursión a Llanes, Ribadesella y San Vicente de la Barquera","En estaexcursióna Llanes, Ribadesella ySan Vicente de la Barqueraos llevaremos a disfrutar de loshermosos paisajes del Principado de Asturias.",35.0
-5,"Excursión a Covadonga, Cangas de Onís y Lastres",Dejaos cautivar por labelleza asturianaen estaexcursión a Covadonga y Lastres. También tendréis tiempo paravisitar el famoso puente de Cangas de Onís.,42.0
-6,Visita guiada por la catedral de Oviedo,"En estavisita por la catedral de Oviedodescubriremos laSancta Ovetensis, protagonista de la ciudad yuno de los templos góticos más importantes de España.",8.0
-7,Tour en jeep + Senderismo por la Ruta del Cares,LaRuta del Carespermite adentrarse en los bellos parajes asturianos y leoneses. Animaos a descubrirlos con estaruta de senderismo y recorrido en jeep.,40.0
-8,Degustación de sidra y quesos en Cuevas del Agua,En estadegustación de sidra y quesos en Cuevas del Aguadisfrutaremos dela gastronomía asturiana y descubriremoscómo se elaboran estos productos típicos.,5.0
-9,Excursión a los lagos de Covadonga,Descubriréis lanaturaleza de los Picos de Europaen estaexcursión a los lagos de Covadonga. Veremos susavesy conoceremos lageología y etnografíalocal.,30.0
-10,Entrada al Museo de Fernando Alonso,"Con estaentrada al Museo de Fernando Alonso, ubicado entre Oviedo y Gijón, disfrutaréis de unagran exposición dedicada al bicampeón mundial de Fórmula 1.",15.0
-11,Descenso del Sella en canoa,Eldescenso del Sella en canoaes una de las actividades más populares de España. Descubriréis los bonitos paisajes asturianos entre Cangas de Onís y Arriondas.,25.0
-12,Visita guiada por Oviedo,"Si todavía no conoces los atractivos de la capital de Asturias,esta visita guiada por Oviedo es la mejor forma de enamorarte de ella. ¡Imprescindible!",12.0
-13,Paseo en lancha rápida por la costa de Gijón,"¿Queréisrecorrer la costa de Gijón a toda velocidad? Ahora podéis hacerlo en estepaseo en lancha, en el que veremos losislotes de esta zona del Cantábrico.",20.0
-14,Tour de los misterios y leyendas de Oviedo,"En estetour de los misterios y leyendas de Oviedoos revelaremossu cara más enigmática.Brujas, fantasmas, trasgos y muchas más criaturasos esperan.",10.0
-15,Tour privado por Oviedo ¡Tú eliges!,La mejor forma de descubrir elpatrimonio de la capital asturianaes hacer untour privado por Oviedo. ¡Enamoraos de la historia latente en sus calles!,90.0
-16,Tour en jeep por los Picos de Europa,Conoced loslugares más sorprendentes de los Picos de Europa con esta ruta en jeeppor el interior del Parque Nacional. ¡Un recorrido que no os podéis perder!,64.0
-17,Free tour de los misterios y leyendas de Gijón,En estefree tour de los misterios y leyendas de Gijóndescubriremos lahistoria oculta de la ciudad asturianamientras disfrutamos de unpaseo nocturno.,0.0
-18,Visita al llagar Sidra JR,En estavisita al llagar Sidra JRveremos el proceso por el que pasan las manzanas desde el árbol hasta el escanciado.¡Imprescindible en Asturias!,10.0
-19,Entrada al Acuario de Gijón,"Decenas deespecies del Cantábrico,el Pacífico,el Mar Rojoy otros sitios del mundo os esperan en elAcuario de Gijón. ¡Aprovechad ya paracomprar la entrada!",18.0
+,Unnamed: 0,Actividad,Descripción,Precio,Ciudad
+0,0,"Excursión a Covadonga, Cangas de Onís y la costa asturiana","Si os apasionala historia y la naturaleza, no podéis perderos estaexcursión a los lagos y la basílica de Covadonga, Cangas de Onís y la costa astuariana.",35.0,asturias
+1,1,"Excursión a Avilés, Cudillero y Luarca","Acompañadnos a descubrir el hermoso ycautivadorlitoral oeste del Principado de Asturiasen esta inolvidableexcursión a Avilés, Cudillero y Luarca.",35.0,asturias
+2,2,Free tour por Oviedo,"Déjate seducir por los aires novelescos de la capital del Principado de Asturiascon este tour gratuito por Oviedo, la ciudad escenario de La Regenta.",0.0,asturias
+3,3,Free tour por Gijón,Disfruta del patrimonio y de la historia deuna de las ciudades más bonitas de Asturiascon este free tour por Gijón. ¡Descubre la ciudad de Don Pelayo!,0.0,asturias
+4,4,"Excursión a Llanes, Ribadesella y San Vicente de la Barquera","En estaexcursióna Llanes, Ribadesella ySan Vicente de la Barqueraos llevaremos a disfrutar de loshermosos paisajes del Principado de Asturias.",35.0,asturias
+5,5,"Excursión a Covadonga, Cangas de Onís y Lastres",Dejaos cautivar por labelleza asturianaen estaexcursión a Covadonga y Lastres. También tendréis tiempo paravisitar el famoso puente de Cangas de Onís.,42.0,asturias
+6,6,Visita guiada por la catedral de Oviedo,"En estavisita por la catedral de Oviedodescubriremos laSancta Ovetensis, protagonista de la ciudad yuno de los templos góticos más importantes de España.",8.0,asturias
+7,7,Tour en jeep + Senderismo por la Ruta del Cares,LaRuta del Carespermite adentrarse en los bellos parajes asturianos y leoneses. Animaos a descubrirlos con estaruta de senderismo y recorrido en jeep.,40.0,asturias
+8,8,Degustación de sidra y quesos en Cuevas del Agua,En estadegustación de sidra y quesos en Cuevas del Aguadisfrutaremos dela gastronomía asturiana y descubriremoscómo se elaboran estos productos típicos.,5.0,asturias
+9,9,Excursión a los lagos de Covadonga,Descubriréis lanaturaleza de los Picos de Europaen estaexcursión a los lagos de Covadonga. Veremos susavesy conoceremos lageología y etnografíalocal.,30.0,asturias
+10,10,Entrada al Museo de Fernando Alonso,"Con estaentrada al Museo de Fernando Alonso, ubicado entre Oviedo y Gijón, disfrutaréis de unagran exposición dedicada al bicampeón mundial de Fórmula 1.",15.0,asturias
+11,11,Descenso del Sella en canoa,Eldescenso del Sella en canoaes una de las actividades más populares de España. Descubriréis los bonitos paisajes asturianos entre Cangas de Onís y Arriondas.,25.0,asturias
+12,12,Visita guiada por Oviedo,"Si todavía no conoces los atractivos de la capital de Asturias,esta visita guiada por Oviedo es la mejor forma de enamorarte de ella. ¡Imprescindible!",12.0,asturias
+13,13,Paseo en lancha rápida por la costa de Gijón,"¿Queréisrecorrer la costa de Gijón a toda velocidad? Ahora podéis hacerlo en estepaseo en lancha, en el que veremos losislotes de esta zona del Cantábrico.",20.0,asturias
+14,14,Tour de los misterios y leyendas de Oviedo,"En estetour de los misterios y leyendas de Oviedoos revelaremossu cara más enigmática.Brujas, fantasmas, trasgos y muchas más criaturasos esperan.",10.0,asturias
+15,15,Tour privado por Oviedo ¡Tú eliges!,La mejor forma de descubrir elpatrimonio de la capital asturianaes hacer untour privado por Oviedo. ¡Enamoraos de la historia latente en sus calles!,90.0,asturias
+16,16,Tour en jeep por los Picos de Europa,Conoced loslugares más sorprendentes de los Picos de Europa con esta ruta en jeeppor el interior del Parque Nacional. ¡Un recorrido que no os podéis perder!,64.0,asturias
+17,17,Free tour de los misterios y leyendas de Gijón,En estefree tour de los misterios y leyendas de Gijóndescubriremos lahistoria oculta de la ciudad asturianamientras disfrutamos de unpaseo nocturno.,0.0,asturias
+18,18,Visita al llagar Sidra JR,En estavisita al llagar Sidra JRveremos el proceso por el que pasan las manzanas desde el árbol hasta el escanciado.¡Imprescindible en Asturias!,10.0,asturias
+19,19,Entrada al Acuario de Gijón,"Decenas deespecies del Cantábrico,el Pacífico,el Mar Rojoy otros sitios del mundo os esperan en elAcuario de Gijón. ¡Aprovechad ya paracomprar la entrada!",18.0,asturias

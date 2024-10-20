@@ -53,7 +53,7 @@ Hemos creado un entorno llamado Webscraping para el siguiente proyecto.
     https://motoshare.es
  
  
-- **Historia , Resultados , Conclusiones**:
+- **Historia**:
 Nos hemos definido como una pequeña empresa dedicada a organizar vacaciones peculiares. Como fundadores, disfrutamos hacer las cosas de forma espontánea, por lo que ofrecemos planes de un máximo de tres días.
 
 ¿Y qué tiene de peculiar un plan de tres días organizados? Ofrecemos a nuestros clientes la oportunidad de vivir el día a día de la ciudad que visitan. Con actividades diarias múltiples y a buen precio, permitimos que los viajeros recorran los lugares a su propio ritmo, ya sea a pie, en coche o en moto. Les brindamos pequeñas guías para que descubran por sí mismos dónde comer o disfrutar, asegurando una experiencia auténtica y personalizada.
@@ -77,9 +77,32 @@ Para malaga hemos obtenido hoteles dentro de malaga capital y los vuelos de ida 
 
 Para Asturias hemos obtenido hoteles y los vuelos de ida y vuelta. Aqui pensamos que la mejor opcion es caminar a las actividades proporcionadas debido a la posibilidad del disfrute del paisaje en Asturias.
 
+**Resultados , Conclusiones**
+
+Al analizar la calidad de los hoteles recolectados en nuestra muestra, encontramos que es similar en ambas ciudades, aunque con Asturias ligeramente por debajo. Dado que Asturias es una zona predominantemente rural, esta diferencia no resulta significativa.
+
+En cuanto a los precios, los hoteles en Asturias presentan tarifas medias más altas. Esto puede contribuir a un mayor descontento entre los usuarios, lo que podría estar relacionado con las diferencias en la clasificación de estrellas y la satisfacción general.
+
+Observamos que el principal proveedor de hoteles en ambas ciudades es Booking. Sin embargo, en Asturias, la proporción de usuarios que eligen este servicio es superior. Teniendo en cuenta que los clientes prefieren Booking por la facilidad de sus servicios, esto sugiere que esta plataforma es más valorada en Asturias.
+
+En conclusión, a pesar de que la satisfacción con los hoteles en Asturias es algo menor, el costo medio de hospedaje es más bajo. Esto hace que, en general, sea más favorable planificar un viaje a Asturias, donde la relación calidad-precio puede resultar más atractiva. Además, dado que Booking es el proveedor predominante, su uso ofrece una mayor seguridad a los usuarios.
+
+En cuanto a las actividades, se observa que en Málaga los precios son considerablemente más altos. Si los clientes buscan un viaje con precios mínimos, apenas hay diferencias entre los destinos. Sin embargo, para aquellos que deseen una experiencia más placentera, las variaciones de precio son notables.
+
+Incluso al eliminar la experiencia de "moto" en Málaga, la comparación entre las dos ciudades no muestra cambios significativos en la oferta. Para aquellos que busquen una experiencia media, Málaga resulta ser más cara en comparación con Asturias. Del mismo modo, si el cliente desea algo más común, los precios en Málaga también son más elevados.
+
+Finalmente, al analizar las medias y las modas, constatamos que las medias son representativas, aunque la recopilación de datos en este caso es limitada. Además, al observar la inclusión de la moto en los paquetes, notamos que su impacto es mínimo, ya que los precios permanecen similares en ambas ciudades.
+
+
 - **Próximos Pasos**
 
- 
+Los próximos pasos a seguir serían la escalabilidad de los scrapers y el estudio de APIs, lo que nos permitirá analizar más datos en nuestros estudios y llegar a más clientes. 📈
 
+Podríamos investigar o escrapear alguna API para ofrecer también servicios de alquiler de coches. 🚗 Además, podríamos entrar en el mercado con recomendaciones sobre el tipo de equipamiento de moto que necesita el cliente para la ruta, brindando así ese servicio adicional. 🏍️
+
+Sabemos que esta estrategia es fácilmente escalable y, con tres o cuatro ajustes, podríamos alcanzar grandes objetivos. 🌟
+
+
+ 
 
 ![OIP](https://github.com/user-attachments/assets/a3261f22-9193-45df-bf33-14a396dfd988)
