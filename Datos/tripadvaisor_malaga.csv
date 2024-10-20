@@ -1,31 +1,31 @@
-,Nombre Hotel,Talla,Puntuacion media,Detalles extra,Precio,Proveedor,URL
-0,1. ibis budget Malaga Aeropuerto Avenida Velazquez,Nan,3.5,Nan,95.0,ibis Budget,"https://www.tripadvisor.in/Commerce?p=Accor&src=38953163&geo=300868&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=5&silo=6640&bucket=903812&nrank=2&crank=1&clt=M&ttype=MobileCR&tm=309330998&managed=false&capped=false&gosox=jNaOZxNFKi4zeoLUnSwUhLL_TqSuab_d3M-Ai6Vi_h14c9PIrVphp5WA_5uVRKVyMEGgOjMZ-eLBsectme0zJIWQCjoZXPVPFWh3jav6qi4qCtVcm-B2AtAISNq7mIey7h1Mtp_3hIQX6HaLTrMh6uIsjApg7bY6R9JxccFDJMGYGw3cPl1jztMnL-LZDDTNKMeWgNYqxPOnw70Ugs99005P_UX_NLj9Gm7B140NoEJ1kZJuOSiWEhllBv8V_6zMG7_cqNJY7nnrqe7PpIEhj1JO1ruHexmcLYtxIriGC7yHVqIztlS-WuG0em4rapDB&priceShown=94&pm=AI&hac=AVAILABLE&mbl=BEAT&mbldelta=0&rq=P&rate=85.50&taxesRate=8.5500&feesRate=0&fees=8.5500&cur=EUR&adults=2&child_rm_ages=&inDay=1&outDay=3&rooms=1&inMonth=11&inYear=2024&outMonth=11&outYear=2024&auid=6c79aa63-e8ab-4510-abbf-b37fc6aff469&def_d=true&bld=L_2,D_12,G_2,W_5,U_1,C_241101,T_13&bh=true&cs=1d55d2ed98220d3b7a4c2d6707b65fc2b&ik=db929461f6824c0a91e63797366e5709&aok=fa3c6ec9d70d43ab8afeef109043535d&tp=APS-Hotels&pageLocId=187438"
-1,2. Vincci Larios Diez,SMALL,5.0,Nan,,Booking.com,Nan
-2,3. H10 Croma Málaga,SMALL,4.5,Nan,,Booking.com,Nan
-3,4. ICON Malabar,SMALL,5.0,Nan,,Booking.com,Nan
-4,5. Barceló Málaga,SMALL,4.5,Nan,,Booking.com,Nan
-5,6. Vincci Seleccion Posada del Patio,SMALL,4.5,Nan,,Booking.com,Nan
-6,7. Palacio Solecio,SMALL,4.5,Nan,,Booking.com,Nan
-7,8. Hotel MS Maestranza,SMALL,4.5,Nan,,Booking.com,Nan
-8,9. Only YOU Hotel Málaga,SMALL,4.5,Nan,,Only YOU Hotels,Nan
-9,10. Room Mate Valeria,SMALL,4.5,Nan,,Official website,Nan
-10,11. Ilunion Málaga,SMALL,4.5,Nan,,Booking.com,Nan
-11,12. Soho Boutique Equitativa,SMALL,4.5,Nan,,Booking.com,Nan
-12,13. NONO Apartments by Charming Stay,SMALL,4.5,Nan,,Booking.com,Nan
-13,14. Atarazanas Malaga Boutique Hotel,SMALL,4.0,Nan,,Booking.com,Nan
-14,15. Petit Palace Plaza Malaga,SMALL,4.5,Nan,,Booking.com,Nan
-15,16. ibis Malaga Centro Ciudad,Nan,4.0,Nan,,Booking.com,Nan
-16,17. Casual del Mar Málaga,SMALL,4.5,Nan,,Booking.com,Nan
-17,18. Mariposa Hotel,SMALL,4.0,Nan,,Booking.com,Nan
-18,19. Madeinterranea Suites,Nan,5.0,Nan,,Nan,Nan
-19,20. Hotel Del Pintor,SMALL,4.5,Nan,,Booking.com,Nan
-20,21. Soho Boutique Colon,SMALL,4.5,Nan,,Booking.com,Nan
-21,22. Novotel Suites Malaga Centro,SMALL,4.0,Nan,,Booking.com,Nan
-22,23. Catalonia Málaga,SMALL,4.0,Nan,,Booking.com,Nan
-23,24. Hotel Brö,SMALL,4.5,Nan,,Booking.com,Nan
-24,25. Ibis budget Malaga Centro,Nan,3.5,Nan,,Booking.com,Nan
-25,26. Hotel California,Nan,4.5,Nan,,Booking.com,Nan
-26,27. Hotel Malaga Picasso,Nan,4.5,Nan,,Booking.com,Nan
-27,28. Debambu,Nan,4.5,Nan,,Nan,Nan
-28,29. La Siesta Malaga,Nan,5.0,Nan,,Nan,Nan
-29,30. Hotel Villa Guadalupe,Nan,4.5,Nan,,Booking.com,Nan
+,Nombre Hotel,Talla,Puntuacion media,Detalles extra,Precio,Proveedor,URL,Ciudad
+0,1. ibis budget Malaga Aeropuerto Avenida Velazquez,Nan,3.5,Nan,95.0,ibis Budget,"https://www.tripadvisor.in/Commerce?p=Accor&src=38953163&geo=300868&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=5&silo=6640&bucket=903812&nrank=2&crank=1&clt=M&ttype=MobileCR&tm=309330998&managed=false&capped=false&gosox=jNaOZxNFKi4zeoLUnSwUhLL_TqSuab_d3M-Ai6Vi_h14c9PIrVphp5WA_5uVRKVyMEGgOjMZ-eLBsectme0zJIWQCjoZXPVPFWh3jav6qi4qCtVcm-B2AtAISNq7mIey7h1Mtp_3hIQX6HaLTrMh6uIsjApg7bY6R9JxccFDJMGYGw3cPl1jztMnL-LZDDTNKMeWgNYqxPOnw70Ugs99005P_UX_NLj9Gm7B140NoEJ1kZJuOSiWEhllBv8V_6zMG7_cqNJY7nnrqe7PpIEhj1JO1ruHexmcLYtxIriGC7yHVqIztlS-WuG0em4rapDB&priceShown=94&pm=AI&hac=AVAILABLE&mbl=BEAT&mbldelta=0&rq=P&rate=85.50&taxesRate=8.5500&feesRate=0&fees=8.5500&cur=EUR&adults=2&child_rm_ages=&inDay=1&outDay=3&rooms=1&inMonth=11&inYear=2024&outMonth=11&outYear=2024&auid=6c79aa63-e8ab-4510-abbf-b37fc6aff469&def_d=true&bld=L_2,D_12,G_2,W_5,U_1,C_241101,T_13&bh=true&cs=1d55d2ed98220d3b7a4c2d6707b65fc2b&ik=db929461f6824c0a91e63797366e5709&aok=fa3c6ec9d70d43ab8afeef109043535d&tp=APS-Hotels&pageLocId=187438",Malaga
+1,2. Vincci Larios Diez,SMALL,5.0,Nan,,Booking.com,Nan,Malaga
+2,3. H10 Croma Málaga,SMALL,4.5,Nan,,Booking.com,Nan,Malaga
+3,4. ICON Malabar,SMALL,5.0,Nan,,Booking.com,Nan,Malaga
+4,5. Barceló Málaga,SMALL,4.5,Nan,,Booking.com,Nan,Malaga
+5,6. Vincci Seleccion Posada del Patio,SMALL,4.5,Nan,,Booking.com,Nan,Malaga
+6,7. Palacio Solecio,SMALL,4.5,Nan,,Booking.com,Nan,Malaga
+7,8. Hotel MS Maestranza,SMALL,4.5,Nan,,Booking.com,Nan,Malaga
+8,9. Only YOU Hotel Málaga,SMALL,4.5,Nan,,Only YOU Hotels,Nan,Malaga
+9,10. Room Mate Valeria,SMALL,4.5,Nan,,Official website,Nan,Malaga
+10,11. Ilunion Málaga,SMALL,4.5,Nan,,Booking.com,Nan,Malaga
+11,12. Soho Boutique Equitativa,SMALL,4.5,Nan,,Booking.com,Nan,Malaga
+12,13. NONO Apartments by Charming Stay,SMALL,4.5,Nan,,Booking.com,Nan,Malaga
+13,14. Atarazanas Malaga Boutique Hotel,SMALL,4.0,Nan,,Booking.com,Nan,Malaga
+14,15. Petit Palace Plaza Malaga,SMALL,4.5,Nan,,Booking.com,Nan,Malaga
+15,16. ibis Malaga Centro Ciudad,Nan,4.0,Nan,,Booking.com,Nan,Malaga
+16,17. Casual del Mar Málaga,SMALL,4.5,Nan,,Booking.com,Nan,Malaga
+17,18. Mariposa Hotel,SMALL,4.0,Nan,,Booking.com,Nan,Malaga
+18,19. Madeinterranea Suites,Nan,5.0,Nan,,Nan,Nan,Malaga
+19,20. Hotel Del Pintor,SMALL,4.5,Nan,,Booking.com,Nan,Malaga
+20,21. Soho Boutique Colon,SMALL,4.5,Nan,,Booking.com,Nan,Malaga
+21,22. Novotel Suites Malaga Centro,SMALL,4.0,Nan,,Booking.com,Nan,Malaga
+22,23. Catalonia Málaga,SMALL,4.0,Nan,,Booking.com,Nan,Malaga
+23,24. Hotel Brö,SMALL,4.5,Nan,,Booking.com,Nan,Malaga
+24,25. Ibis budget Malaga Centro,Nan,3.5,Nan,,Booking.com,Nan,Malaga
+25,26. Hotel California,Nan,4.5,Nan,,Booking.com,Nan,Malaga
+26,27. Hotel Malaga Picasso,Nan,4.5,Nan,,Booking.com,Nan,Malaga
+27,28. Debambu,Nan,4.5,Nan,,Nan,Nan,Malaga
+28,29. La Siesta Malaga,Nan,5.0,Nan,,Nan,Nan,Malaga
+29,30. Hotel Villa Guadalupe,Nan,4.5,Nan,,Booking.com,Nan,Malaga
