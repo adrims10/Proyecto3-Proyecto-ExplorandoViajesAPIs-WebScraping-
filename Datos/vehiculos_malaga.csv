@@ -1,37 +1,37 @@
-,Modelo,Precio,Lugares
-0,BMW R 1200 GS,€130Por día,Granada
-1,Suzuki Burgman,€39Por día,Málaga
-2,Honda CB 500 X,€43Por día,Málaga
-3,BMW F800R,€58Por día,Híjar
-4,Piaggio Beverly 350,€40Por día,Granada
-5,Triumph Tiger 1200 Desert Edition,€125Por día,Alhaurín de la Torre
-6,Honda Monkey 125  2021,€43Por día,Málaga
-7,Triumph Tiger 1200 Desert Edition,€125Por día,Alhaurín de la Torre
-8,Triumph Tiger 900 Rally Pro,€125Por día,Alhaurín de la Torre
-9,Triumph Tiger 1200 Desert Edition,€125Por día,Alhaurín de la Torre
-10,Triumph Tiger 900 Rally Pro,€125Por día,Alhaurín de la Torre
-11,Triumph Tiger 900 Rally Pro,€125Por día,Alhaurín de la Torre
-12,Yamaha TRACER 7 GT,€77Por día,Mijas
-13,Yamaha MT07,€66Por día,Málaga
-14,BMW GS 800,€91Por día,Conil de la Frontera
-15,BMW R 1250 GS,€139Por día,Málaga
-16,Piaggio Liberty,€32Por día,Málaga
-17,Yamaha MT 07 ABS,€73Por día,Málaga
-18,Suzuki GSF 650 Bandit,€68Por día,Vélez-Málaga
-19,Suzuki Intruder VS 800,€56Por día,Marbella
-20,Honda CBF,€27Por día,Alhaurín de la Torre
-21,Hyosung Aquila,€47Por día,Málaga
-22,Kawasaki Vulcan 900 Classic,€51Por día,Fuengirola
-23,Honda CB 600 F,€46Por día,Tocina
-24,Royal Enfield Himalayan,€59Por día,Sevilla
-25,Honda SH,€32Por día,La Cala del Moral
-26,Yamaha FZ6,€63Por día,Benalmádena
-27,Ducati Monster 696,€86Por día,Torremolinos
-28,Suzuki Burgman 125,€30Por día,Málaga
-29,Suzuki Intruder VS 800,€56Por día,Marbella
-30,Piaggio Beverly,€55Por día,Málaga
-31,Honda Transalp XL 650 V,€36Por día,Marbella
-32,Honda MSX,€47Por día,Jun
-33,Sumco SAIGA,€33Por día,Sevilla
-34,BMW S1000XR,€115Por día,Sevilla
-35,BMW K 1600 GT,€77Por día,Marbella
+,Modelo,Lugares,Precio,Dias por precio
+0,BMW R 1200 GS,Granada,130.0,Por día
+1,Suzuki Burgman,Málaga,39.0,Por día
+2,Honda CB 500 X,Málaga,43.0,Por día
+3,BMW F800R,Híjar,58.0,Por día
+4,Piaggio Beverly 350,Granada,40.0,Por día
+5,Triumph Tiger 1200 Desert Edition,Alhaurín de la Torre,125.0,Por día
+6,Honda Monkey 125  2021,Málaga,43.0,Por día
+7,Triumph Tiger 1200 Desert Edition,Alhaurín de la Torre,125.0,Por día
+8,Triumph Tiger 900 Rally Pro,Alhaurín de la Torre,125.0,Por día
+9,Triumph Tiger 1200 Desert Edition,Alhaurín de la Torre,125.0,Por día
+10,Triumph Tiger 900 Rally Pro,Alhaurín de la Torre,125.0,Por día
+11,Triumph Tiger 900 Rally Pro,Alhaurín de la Torre,125.0,Por día
+12,Yamaha TRACER 7 GT,Mijas,77.0,Por día
+13,Yamaha MT07,Málaga,66.0,Por día
+14,BMW GS 800,Conil de la Frontera,91.0,Por día
+15,BMW R 1250 GS,Málaga,139.0,Por día
+16,Piaggio Liberty,Málaga,32.0,Por día
+17,Yamaha MT 07 ABS,Málaga,73.0,Por día
+18,Suzuki GSF 650 Bandit,Vélez-Málaga,68.0,Por día
+19,Suzuki Intruder VS 800,Marbella,56.0,Por día
+20,Honda CBF,Alhaurín de la Torre,27.0,Por día
+21,Hyosung Aquila,Málaga,47.0,Por día
+22,Kawasaki Vulcan 900 Classic,Fuengirola,51.0,Por día
+23,Honda CB 600 F,Tocina,46.0,Por día
+24,Royal Enfield Himalayan,Sevilla,59.0,Por día
+25,Honda SH,La Cala del Moral,32.0,Por día
+26,Yamaha FZ6,Benalmádena,63.0,Por día
+27,Ducati Monster 696,Torremolinos,86.0,Por día
+28,Suzuki Burgman 125,Málaga,30.0,Por día
+29,Suzuki Intruder VS 800,Marbella,56.0,Por día
+30,Piaggio Beverly,Málaga,55.0,Por día
+31,Honda Transalp XL 650 V,Marbella,36.0,Por día
+32,Honda MSX,Jun,47.0,Por día
+33,Sumco SAIGA,Sevilla,33.0,Por día
+34,BMW S1000XR,Sevilla,115.0,Por día
+35,BMW K 1600 GT,Marbella,77.0,Por día
