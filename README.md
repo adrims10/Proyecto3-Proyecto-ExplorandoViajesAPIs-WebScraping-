@@ -82,13 +82,13 @@ Para Asturias hemos obtenido hoteles y los vuelos de ida y vuelta. Aqui pensamos
 
 Al analizar la calidad de los hoteles recolectados en nuestra muestra, encontramos que es similar en ambas ciudades, aunque con Asturias ligeramente por debajo. Dado que Asturias es una zona predominantemente rural, esta diferencia no resulta significativa.
 
-En cuanto a los precios, los hoteles en Asturias presentan tarifas medias más altas. Esto puede contribuir a un mayor descontento entre los usuarios, lo que podría estar relacionado con las diferencias en la clasificación de estrellas y la satisfacción general.
+En cuanto a los precios, los hoteles en Asturias presentan tarifas medias mas bajas. 
 
 Observamos que el principal proveedor de hoteles en ambas ciudades es Booking. Sin embargo, en Asturias, la proporción de usuarios que eligen este servicio es superior. Teniendo en cuenta que los clientes prefieren Booking por la facilidad de sus servicios, esto sugiere que esta plataforma es más valorada en Asturias.
 
 En conclusión, a pesar de que la satisfacción con los hoteles en Asturias es algo menor, el costo medio de hospedaje es más bajo. Esto hace que, en general, sea más favorable planificar un viaje a Asturias, donde la relación calidad-precio puede resultar más atractiva. Además, dado que Booking es el proveedor predominante, su uso ofrece una mayor seguridad a los usuarios.
 
-En cuanto a las actividades, se observa que en Málaga los precios son considerablemente más altos. Si los clientes buscan un viaje con precios mínimos, apenas hay diferencias entre los destinos. Sin embargo, para aquellos que deseen una experiencia más placentera, las variaciones de precio son notables.
+En cuanto a las actividades, se observa que en Málaga los precios son considerablemente más altos. Si los clientes buscan un viaje con precios mínimos, apenas hay diferencias entre los destinos. Sin embargo, para aquellos que deseen una experiencia más alto nivel, las variaciones de precio son notables.
 
 Incluso al eliminar la experiencia de "moto" en Málaga, la comparación entre las dos ciudades no muestra cambios significativos en la oferta. Para aquellos que busquen una experiencia media, Málaga resulta ser más cara en comparación con Asturias. Del mismo modo, si el cliente desea algo más común, los precios en Málaga también son más elevados.
 
